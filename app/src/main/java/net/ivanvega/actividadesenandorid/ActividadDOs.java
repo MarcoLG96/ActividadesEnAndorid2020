@@ -50,7 +50,7 @@ public class ActividadDOs extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Hola a todos :D
-                //comentando para pull request comentando
+                //comentando para pull request hola comentando
                 Toast.makeText(getBaseContext(), txtUsuario.getText().toString(),
                     Toast.LENGTH_LONG).show();
                 Toast.makeText(getBaseContext(), txtUsuario.getText().toString(),
